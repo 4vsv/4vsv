@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @4vsv
+- 👀 I’m interested in software and video game design
+- 🌱 I’m currently learning Java and C++
